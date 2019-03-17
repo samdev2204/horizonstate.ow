@@ -1,0 +1,1134 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="pinterest" content="nopin" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta name="HandheldFriendly" content="true" />
+
+<link rel="shortcut icon" href="https://horizonstate.com/assets/images/favicon.png">
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+    ga('create', 'UA-104244711-1', 'auto');
+    ga('send', 'pageview');
+</script>
+<!-- Facebook Pixel Code -->
+<script>
+    !function (f, b, e, v, n, t, s) {
+        if (f.fbq) return;
+        n = f.fbq = function () {
+            n.callMethod ?
+                n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+        };
+        if (!f._fbq) f._fbq = n;
+        n.push = n;
+        n.loaded = !0;
+        n.version = '2.0';
+        n.queue = [];
+        t = b.createElement(e);
+        t.async = !0;
+        t.src = v;
+        s = b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t, s)
+    }(window, document, 'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1994378840832777');
+    fbq('track', 'PageView');
+</script>
+<!-- Facebook Pixel Code -->
+<script>
+    !function (f, b, e, v, n, t, s) {
+        if (f.fbq) return;
+        n = f.fbq = function () {
+            n.callMethod ?
+                n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+        };
+        if (!f._fbq) f._fbq = n;
+        n.push = n;
+        n.loaded = !0;
+        n.version = '2.0';
+        n.queue = [];
+        t = b.createElement(e);
+        t.async = !0;
+        t.src = v;
+        s = b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t, s)
+    }(window, document, 'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '149679275530879');
+    fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+               src="https://www.facebook.com/tr?id=149679275530879&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+<noscript>
+    <img height="1" width="1"
+         src="https://www.facebook.com/tr?id=1994378840832777&ev=PageView
+    &noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+
+<link rel="apple-touch-icon" sizes="57x57" href="/assets/img/favicons/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/assets/img/favicons/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/assets/img/favicons/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/assets/img/favicons/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/assets/img/favicons/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/assets/img/favicons/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/assets/img/favicons/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/assets/img/favicons/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/img/favicons/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/assets/img/favicons/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/assets/img/favicons/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicons/favicon-16x16.png">
+<meta name="msapplication-TileColor" content="#252527">
+<meta name="msapplication-TileImage" content="/assets/img/favicons/ms-icon-144x144.png">
+<meta name="theme-color" content="#252527">
+
+<link rel="stylesheet" type="text/css" href="/assets/fonts/fonts.css?_rf=30" />
+<link rel="stylesheet" type="text/css" href="/assets/hs.min.css?_rf=30" />
+<script type="text/javascript" src="/assets/bundle.min.js"></script>
+
+
+<!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>Platform | Horizon State</title>
+<meta name="generator" content="Jekyll v3.8.3" />
+<meta property="og:title" content="Platform" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Horizon State is about unlocking the power of communities to drive organisations forward." />
+<meta property="og:description" content="Horizon State is about unlocking the power of communities to drive organisations forward." />
+<link rel="canonical" href="https://horizonstate.com/platform/" />
+<meta property="og:url" content="https://horizonstate.com/platform/" />
+<meta property="og:site_name" content="Horizon State" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@horizonstate" />
+<script type="application/ld+json">
+{"description":"Horizon State is about unlocking the power of communities to drive organisations forward.","@type":"WebPage","headline":"Platform","url":"https://horizonstate.com/platform/","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+</head>
+
+<body class="">
+
+
+<header>
+    <div class="content">
+        <a href="/" class="logoWrap internalLink">
+            <img title="Horizon State" alt="Horizon State" src="/assets/img/logo.png" class="logo" />
+            <img title="Horizon State" alt="Horizon State" src="/assets/img/logo-white.png" class="logoWhite" />
+        </a>
+        <nav class="hasActivePage">
+            <ul>
+                
+                  <li><a class="internalLink" href="/platform/">Platform</a></li>
+                
+                  <li><a class="internalLink" href="/about/">About</a></li>
+                
+                  <li><a class="internalLink" href="/events/">Events</a></li>
+                
+                  <li><a class="internalLink" href="/media/">Media</a></li>
+                
+                  <li><a class="internalLink" href="/partners/">Partners</a></li>
+                
+                  <li><a class="internalLink" href="/contact/">Contact</a></li>
+                
+                  <li><a class="internalLink" href="/sign-up/">Sign up</a></li>
+                
+                <ul>
+                    
+                    <li><a href="/team/">Team</a></li>
+                    
+                    <li><a href="https://drive.google.com/drive/folders/17bjiMsE95ggjzIhvST6eoUpR3CZ5F1Bx" target="_blank">Media Kit</a></li>
+                    
+                    <li><a href="/hst/">HST Portal</a></li>
+                    
+                </ul>
+            </ul>
+        </nav>
+        <a class="mobileMenuToggle">
+            <div class="mobileMenuToggleLine1"></div>
+            <div class="mobileMenuToggleLine2"></div>
+        </a>
+    </div>
+</header>
+<div class="headerSpacer"></div>
+
+<div id="main">
+
+    <style type="text/css">
+    
+        .featureAreaTitle {
+            max-width: 750px;
+        }
+        
+            .featureColTitles {
+                font-size: 24px;
+                line-height: 30px;
+            }
+        
+            .featureColIllustration img {
+                width: auto;
+                height: 80px;
+                margin: 0 auto;
+            }
+            
+            @media only screen and (max-width: 800px) {
+                
+                .featureColIllustration img {
+                    height: 60px;
+                }
+                
+                .featureColTitles {
+                    font-size: 20px;
+                    line-height: 30px;
+                }
+                
+            }
+        
+        .appDemo {
+            overflow: hidden;
+        }
+        
+        .appDemoWrap {
+            display: flex;
+            align-items: center;
+        }
+        
+            .appDemoPhone {
+                width: 390px;
+                margin-top: -80px;
+                margin-left: -80px;
+                margin-bottom: -80px;
+                position: relative;
+            }
+            
+                .appDemoPhone img {
+                    width: 100%;
+                    height: auto;
+                    position: relative;
+                    z-index: 2;
+                }
+                
+                .appDemoBg {
+                    position: absolute;
+                    z-index: 1;
+                    top: -280px;
+                    left: -9999px;
+                    right: 50%;
+                    bottom: -280px;
+                    background: #555fff;
+                }
+            
+            .appDemoContent {
+                width: calc(100% - 390px);
+            }
+            
+                .appDemoContentInner {
+                    padding-left: 80px;
+                }
+                
+                .appDemoContent ul {
+                    list-style: none;
+                }
+                
+                .appDemoContent li {
+                    padding-left: 30px;
+                    margin-bottom: 18px;
+                    position: relative;
+                }
+                
+                    .appDemoContent li:last-child { margin-bottom: 0; }
+                    
+                .appDemoContent li:before {
+                    content: '';
+                    width: 8px;
+                    height: 8px;
+                    position: absolute;
+                    top: 11px;
+                    left: 0;
+                    background: #555fff;
+                    display: inline-block;
+                    -webkit-border-radius: 50%;
+                    -moz-border-radius: 50%;
+                    border-radius: 50%;
+                }
+                
+                .appDemoContent span {
+                    opacity: 0.5;
+                }
+                
+        @media only screen and (max-width: 1200px) {
+            
+            .appDemo .content {
+                padding-right: 0;
+            }
+            
+            .appDemoContentInner {
+                padding-left: 0;
+            }
+            
+        }
+        
+        @media only screen and (max-width: 800px) {
+            
+            .appDemoPhone {
+                width: 180px;
+                margin-top: -40px;
+                margin-left: -40px;
+                margin-bottom: -40px;
+            }
+            
+            .appDemoContent {
+                width: calc(100% - 180px);
+            }
+            
+        }
+        
+        @media only screen and (max-width: 600px) {
+            
+            .appDemo {
+                margin-top: 100px;
+                overflow: visible;
+            }
+            
+            .appDemoWrap {
+                display: block;
+                margin: 0;
+            }
+            
+            .appDemoBg {
+                display: none;
+            }
+            
+            .appDemoPhone {
+                position: relative;
+                margin: 0 auto;
+                top: -100px;
+                right: auto;
+                width: 240px;
+                -webkit-transform: rotate(0deg);
+                -moz-transform: rotate(0deg);
+                transform: rotate(0deg);
+            }
+            
+                .appDemoPhone img {
+                    margin: -80px 0;
+                    margin-left: -15px;
+                }
+            
+            .appDemoContent {
+                width: auto;
+                margin-top: -60px;
+                padding-right: 30px;
+            }
+            
+        }
+        
+        h3.mini {
+            font-size: 30px;
+            line-height: 44px;
+        }
+        
+        @media only screen and (max-width: 900px) {
+            
+            h3.mini {
+                font-size: 26px;
+                line-height: 36px;
+            }
+            
+        }
+        
+        @media only screen and (max-width: 700px) {
+            
+            h3.mini {
+                font-size: 22px;
+                line-height: 32px;
+            }
+            
+        }
+        
+    </style>
+    
+    <div class="content titleAnimation">
+        <div class="contentGapXL"></div>
+        <h1 class="subpageTitle">Open dialogue informs better decision making.</h1>
+        <div class="contentGapXXS"></div>
+        <p class="subpageSubtitle">We’re making mindful leadership the new standard by putting sentiment capture technology in the hands of communities.</p>
+        <div class="contentGapXXL"></div>
+    </div>
+    
+    <div class="contentGapL"></div>
+    <div class="contentOuter blue intro hsFadeInUp1">
+        <div class="content doublePadding">
+            <div class="introBanner hsFadeInUp2">
+                <div class="glide">
+    <div class="introBannerPage slider-progress"></div>
+    <div class="introBannerImage slider">
+        <div class="sliderArrows" data-glide-el="controls">
+            <a class="sliderArrowPrev" data-glide-dir="<"></a>
+            <a class="sliderArrowNext"data-glide-dir=">"></a>
+        </div>
+        <div>
+          <div class="glide__track" data-glide-el="track">
+            <ul class="glide__slides">
+                
+                    <li class="glide__slide" style="background-image:url(/assets/images/platform/product1.jpg); border-radius: 4px; background-size: cover; background-position: center;">
+                    </li>
+                
+                    <li class="glide__slide" style="background-image:url(/assets/images/platform/product2.jpg); border-radius: 4px; background-size: cover; background-position: center;">
+                    </li>
+                
+                    <li class="glide__slide" style="background-image:url(/assets/images/platform/product3.jpg); border-radius: 4px; background-size: cover; background-position: center;">
+                    </li>
+                
+                    <li class="glide__slide" style="background-image:url(/assets/images/platform/product4.jpg); border-radius: 4px; background-size: cover; background-position: center;">
+                    </li>
+                
+                    <li class="glide__slide" style="background-image:url(/assets/images/platform/product5.jpg); border-radius: 4px; background-size: cover; background-position: center;">
+                    </li>
+                
+            </ul>
+          </div>
+        </div>
+    </div>
+</div>
+
+<link rel="stylesheet" type="text/css" href="/assets/css/glide.core.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/css/glide.theme.min.css" />
+<script type="text/javascript" src="/assets/glide.min.js"></script>
+<script type="text/javascript">
+    var glide = new Glide('.glide');
+
+    glide.on(['run.after', 'mount.after'], function() {
+        var currentSlide = glide.index + 1;
+        var totalSlides = $('.glide__slide').length;
+        $('.slider-progress').text(currentSlide + ' / ' + totalSlides);
+    });
+
+    glide.mount();
+</script>
+            </div>
+            <div class="contentGapS"></div>
+        </div>
+    </div>
+    <div class="contentOuter blue intro hsFadeInUp1">
+        <div class="content">
+            <h2 class="introFeatureTitle light animateOnScroll">Why choose Horizon State?</h2>
+            <div class="contentGapM"></div>
+            <div class="introFeatures animateOnScroll">
+                
+                    <div class="introFeatureCol">
+                        
+                        <div class="featureColIllustration">
+                            <img src="/assets/images/platform/insights.svg" alt="Powerful Insights" />
+                        </div>
+                        <div class="contentGapXS"></div>
+                        <h4 class="featureColTitles">Powerful Insights</h4>
+                        <div class="contentGapXXS"></div>
+                        <p>Data and analytics that provide actionable insights</p>
+                    </div>
+                
+                    <div class="introFeatureCol">
+                        <div class="contentGapM mobileOnly"></div>
+                        <div class="featureColIllustration">
+                            <img src="/assets/images/platform/save.svg" alt="Enhanced efficiency" />
+                        </div>
+                        <div class="contentGapXS"></div>
+                        <h4 class="featureColTitles">Enhanced efficiency</h4>
+                        <div class="contentGapXXS"></div>
+                        <p>Save your organisation time and money with clarity of decision making</p>
+                    </div>
+                
+                    <div class="introFeatureCol">
+                        <div class="contentGapM mobileOnly"></div>
+                        <div class="featureColIllustration">
+                            <img src="/assets/images/platform/engagement.svg" alt="Increased engagement" />
+                        </div>
+                        <div class="contentGapXS"></div>
+                        <h4 class="featureColTitles">Increased engagement</h4>
+                        <div class="contentGapXXS"></div>
+                        <p>Modular technology that underpins progressive dialogue</p>
+                    </div>
+                
+            </div>
+            <div class="contentGapXL"></div>
+        </div>
+    </div>
+
+    <div class="content doublePadding">
+        <div class="contentGapXXL"></div>
+        <h2 class="featureAreaTitle animateOnScroll">A global leader in community empowerment <span>that uses blockchain secured technology to drive organisations forward</span></h2>
+        <div class="contentGapXXL"></div>
+    </div>
+
+    <div class="contentOuter blue">
+        <div class="content">
+            <div class="contentGapXL"></div>
+            <h5>Community Engagement</h5>
+            <div class="contentGapXS"></div>
+            <h4 class="light largerWhenSmall">The approaches, principles and characteristics of community engagement are well understood but are extremely difficult to implement. This is a result of engagements being dynamic, with ever-changing structures, flows and scopes.</h4>
+            <div class="contentGapS"></div>
+            <div class="flexWrapper">
+                <div class="column leftColumn">
+                    
+                        <p>Individuals and communities have mutual interests: education, safety, a sense of belonging, self-worth, and return on investment – from both the financial and spiritual senses. Stronger communities have a potential to provide all that when processes are collectively defined and correctly implemented.</p>
+                        <div class="contentGapXS"></div>
+                    
+                        <p>Horizon State has built a digital platform for empowering communities and people. The platform provides a safe online place for sharing information and fostering engagement and collaboration.</p>
+                        <div class="contentGapXS"></div>
+                    
+                </div>
+                <div class="column rightColumn">
+                    
+                        <p>The platform allows communities to create and mobilise initiatives, encouraging collaboration and deliberation. Horizon State ensures that individual voices are heard.</p>
+                        <div class="contentGapXS"></div>
+                    
+                        <p>When communities can establish their collective needs and aspirations they are empowered to better shape themselves and their lives. We help achieve this by surfacing individual voices, identifying influences and biases, and providing good decision making frameworks.</p>
+                        <div class="contentGapXS"></div>
+                    
+                        <p>Horizon State supports communities in developing and deepening meaningful connections between their members.</p>
+                        <div class="contentGapXS"></div>
+                    
+                </div>
+            </div>
+            <div class="contentGapXL"></div>
+        </div>
+    </div>
+    
+   <!--  <div class="contentOuter" style="overflow:hidden;">
+        <div class="content medium">
+            <div class="hpAboutContent animateOnScroll">
+                <div class="contentGapXXL"></div>
+                <h3 style="max-width:none;">Community Engagement</h3>
+                <div class="contentGapS"></div>
+                
+                <div class="contentGapXXL"></div>
+                <div class="hpAboutContentBg"></div>
+            </div>
+        </div>
+    </div> -->
+    
+    <div class="content doublePadding">
+        <div id="deliberation"></div>
+        <div class="contentGapXXL"></div>
+        <div class="featureRow animateOnScroll">
+            <div class="featureRowImage">
+                <img src="/assets/images/platform/deliberation.svg" alt="Deliberation" />
+            </div>
+            <div class="featureRowText">
+                <h4><div class="featureRowIcon" style="background-image:url(/assets/images/platform/icon-deliberation.png);"></div> Community Engagement</h4>
+                <div class="contentGapXS" style="margin-top:-8px;"></div>
+                <h4 class="light">Create a dialogue and generate crowd insights</h4>
+                <div class="contentGapXXS" style="margin-top:-5px;"></div>
+                <p style="opacity:0.7;">Built with enterprise, community groups and local government in mind, Horizon State provides a set of surveying and polling tools to capture collective opinions and distil them into actionable insights.</p>
+            </div>
+        </div>
+        <div id="mobilisation"></div>
+        <div class="contentGapXXL"></div>
+        <div class="featureRow reverse animateOnScroll">
+            <div class="featureRowImage">
+                <img src="/assets/images/platform/mobilisation.svg" alt="Mobilisation" />
+            </div>
+            <div class="featureRowText">
+                <h4><div class="featureRowIcon" style="background-image:url(/assets/images/platform/icon-mobilisation.png);"></div> Campaigns</h4>
+                <div class="contentGapXS" style="margin-top:-8px;"></div>
+                <h4 class="light">Enable grass roots community organisation</h4>
+                <div class="contentGapXXS" style="margin-top:-5px;"></div>
+                <p style="opacity:0.7;">Whether it’s secure digital fundraising or inspiring community groups to organise themselves; by putting the tools of empowerment in the hands of the people amazing things can happen.</p>
+            </div>
+        </div>
+        <div id="securevoting"></div>
+        <div class="contentGapXXL"></div>
+        <div class="featureRow animateOnScroll">
+            <div class="featureRowImage">
+                <img src="/assets/images/platform/secure-voting.svg" alt="Secure Voting" />
+            </div>
+            <div class="featureRowText">
+                <h4><div class="featureRowIcon" style="background-image:url(/assets/images/platform/icon-secure-voting.png);"></div> Secure Voting</h4>
+                <div class="contentGapXS" style="margin-top:-8px;"></div>
+                <h4 class="light">Be part of the blockchain voting revolution</h4>
+                <div class="contentGapXXS" style="margin-top:-5px;"></div>
+                <p style="opacity:0.7;">From shareholder voting through to official government elections of all scales, Horizon State offers one of the world’s most powerful and reliable digital ballot box systems.</p>
+            </div>
+        </div>
+        <div class="contentGapXXL"></div>
+        <div style="text-align:center;">
+            <a class="button large showArrowOnHover internalLink" href="/contact/">Contact us</a>
+        </div>
+        <div class="contentGapXXL"></div>
+    </div>
+
+    <div class="contentOuter blue">
+        <div class="content">
+            <div class="contentGapXL"></div>
+            <h5>Mobilisation</h5>
+            <div class="contentGapXS"></div>
+            <h4 class="light largerWhenSmall">Shared initiatives, achievements, celebrations, heritage and culture bring people together.</h4>
+            <div class="contentGapS"></div>
+            <div class="flexWrapper">
+                <div class="column leftColumn">
+                    
+                        <p>Horizon State has developed tools to identify those aspects and analyse different ideas, opinions and perspectives. We enhance community mobilisation and local leadership-support.</p>
+                        <div class="contentGapXS"></div>
+                    
+                        <p>The tools we develop allow communities to find their own structure for co-creating shared vision and future. Through these, communities can develop a shared narrative and bond their membership.</p>
+                        <div class="contentGapXS"></div>
+                    
+                </div>
+                <div class="column rightColumn">
+                    
+                        <p>A key objective of the platform is promoting collaborative support, advice, pluralism and understanding. This lets communities tap into resources which enable focusing on the issues that matter to everyone, together.</p>
+                        <div class="contentGapXS"></div>
+                    
+                        <p>This makes communities more resilient and enables them to focus on the issues that matter to them, together. Strong communities are more supportive both internally and externally. Engaged people feel that they are heard and matter, that they are a part of decision making processes in the areas that affect them. Our aim is to deliver to these goals.</p>
+                        <div class="contentGapXS"></div>
+                    
+                </div>
+            </div>
+            <div class="contentGapXL"></div>
+        </div>
+    </div>
+    
+    <div class="contentOuter" style="overflow:hidden;">
+        <div class="content medium">
+            <div class="hpAboutContent animateOnScroll">
+                <div class="contentGapXXL"></div>
+                <h3 class="light mini">Transparency & Security</h3>
+                
+                    <div class="contentGapXS"></div>
+                    <p>Using blockchain technology and a dynamic architecture that enables transparency and security, the platform focuses on delivering in three core areas: considered deliberation of decisions, effective mobilisation of communities, and facilitation of secure voting. By putting these powerful tools into the hands of communities all over the world, we are making every voice count on a global scale.</p>
+                
+                <div class="contentGapXXL"></div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="contentOuter light" style="display: none">
+        <div class="contentGapXXL"></div>
+        <div class="content medium">
+            <h3 class="light mini">Bridging The Gap</h3>
+             
+                <div class="contentGapXS"></div>
+                <p>All over the world, community leaders strive to serve their communities in the most efficient, fair and enlightened way. Horizon State platform will provide those leaders with a plethora of information about their community members’ opinions, sentiments, interactions and deliberations. This information acts as a heart monitor for the community, and supports leaders in making better decisions, that will have stronger community support.</p>
+            
+                <div class="contentGapXS"></div>
+                <p>Central and local government will be able to provide information, gauge public opinion, invite productive discussions and remove barriers of frustration, communication and trust by being able to initiate or join dialogues directly to communities and their members.</p>
+            
+                <div class="contentGapXS"></div>
+                <p>A global leader in community empowerment that uses blockchain secured technology to drive organisations forward.</p>
+            
+        </div>
+        <div class="contentGapXXL"></div>
+    </div>
+    
+    <div class="contentOuter" style="display: none">
+        <div class="contentGapXXL"></div>
+        <div class="content" style="text-align:center">
+            <a class="button large showArrowOnHover" href="/contact/">Contact us for more information</a>
+        </div>
+        <div class="contentGapXXL"></div>
+    </div>
+    
+    <div class="contentOuter appDemo light">
+        <div class="content">
+            <div class="contentInner">
+                <div class="contentGapL"></div>
+                <div class="appDemoWrap">
+                    <div class="appDemoPhone">
+                        <img src="/assets/images/platform/phone.svg" alt="One platform to mobilise communities, survey opinion and facilitate secure voting." />
+                        <div class="appDemoBg"></div>
+                    </div>
+                    <div class="appDemoContent">
+                        <div class="appDemoContentInner">
+                            <h4 class="light">One platform to mobilise communities, survey opinion and facilitate secure voting.</h4>
+                            <div class="contentGapM"></div>
+                            <ul>
+                                
+                                    <li><span>Efficient, intuitive workflows for all users</span></li>
+                                
+                                    <li><span>Powerful insights and analytics</span></li>
+                                
+                                    <li><span>Easily deployed alongside existing systems</span></li>
+                                
+                                    <li><span>Secured by blockchain</span></li>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="contentGapL"></div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="contentOuter articleSliderOuter">
+    <div class="content articleSliderWrap">
+        <div class="contentGapXXL"></div>
+        <div class="articleSliderTitle">
+            <h4 class="light"></h4>
+            <div class="articleSliderArrows">
+                <a class="button articleSliderPager articleSliderPrev"></a>
+                <a class="button articleSliderPager articleSliderNext"></a>
+            </div>
+        </div>
+        <div class="contentGapS"></div>
+        <div class="articleSlider">
+            <ul class="articleSliderInner">
+                
+                    <li>
+                        <a href="http://www.abc.net.au/news/2018-07-24/blockchain-innovators-seek-to-disrupt-indonesian-electoral-fraud/10025900" target="_blank">
+                            <div class="articleSliderItem">
+                                <div class="articleSliderImage" style="background-image:url(/uploads/10026262-3x2-700x467.jpg);"></div>
+                                <div class="articleSliderInfo">
+                                    <img src="/uploads/ABC%20News.png" title="ABC" alt="ABC" class="articleSliderLogo" />
+                                    <div class="contentGapXXS"></div>
+                                    <h4>Australian blockchain innovators seeking to provide greater voting transparency in emerging democracies</h4>
+                                    <div class="contentGapXXS"></div>
+                                </div>
+                                <div class="more">Read article</div>
+                            </div>
+                        </a>
+                    </li>
+                
+                    <li>
+                        <a href="https://govinsider.asia/connected-gov/blockchain-e-voting-horizon-state-community-engagement/" target="_blank">
+                            <div class="articleSliderItem">
+                                <div class="articleSliderImage" style="background-image:url(/uploads/27450504281_ce0593da19_h-1024x587.jpg);"></div>
+                                <div class="articleSliderInfo">
+                                    <img src="/uploads/GovInsider-logo.png" title="GovInsider" alt="GovInsider" class="articleSliderLogo" />
+                                    <div class="contentGapXXS"></div>
+                                    <h4>How blockchain powers e-voting</h4>
+                                    <div class="contentGapXXS"></div>
+                                </div>
+                                <div class="more">Read article</div>
+                            </div>
+                        </a>
+                    </li>
+                
+                    <li>
+                        <a href="https://medium.com/horizonstate/horizon-state-joins-google-dropbox-and-spotify-as-world-economic-forum-technology-pioneers-78df2063d1fc" target="_blank">
+                            <div class="articleSliderItem">
+                                <div class="articleSliderImage" style="background-image:url(/assets/img/media-wef.jpg);"></div>
+                                <div class="articleSliderInfo">
+                                    <img src="/assets/images/media/medium.png" title="Medium" alt="Medium" class="articleSliderLogo" />
+                                    <div class="contentGapXXS"></div>
+                                    <h4>Horizon State joins Google, Dropbox and Spotify as World Economic Forum Technology Pioneers</h4>
+                                    <div class="contentGapXXS"></div>
+                                </div>
+                                <div class="more">Read article</div>
+                            </div>
+                        </a>
+                    </li>
+                
+                    <li>
+                        <a href="https://www.smartcompany.com.au/startupsmart/news-analysis/ten-australian-blockchain-companies-raising-millions-and-disrupting-industries/" target="_blank">
+                            <div class="articleSliderItem">
+                                <div class="articleSliderImage" style="background-image:url(/assets/img/media-smartcompany.jpg);"></div>
+                                <div class="articleSliderInfo">
+                                    <img src="/assets/images/media/smartcompany.png" title="SmartCompany" alt="SmartCompany" class="articleSliderLogo" />
+                                    <div class="contentGapXXS"></div>
+                                    <h4>Ten Australian blockchain companies raising millions and disrupting industries</h4>
+                                    <div class="contentGapXXS"></div>
+                                </div>
+                                <div class="more">Read article</div>
+                            </div>
+                        </a>
+                    </li>
+                
+                    <li>
+                        <a href="https://theaseanpost.com/article/indonesia-embraces-blockchain" target="_blank">
+                            <div class="articleSliderItem">
+                                <div class="articleSliderImage" style="background-image:url(/assets/img/media-jakarta.jpg);"></div>
+                                <div class="articleSliderInfo">
+                                    <img src="/assets/images/media/aseanpost.png" title="The Asean Post" alt="The Asean Post" class="articleSliderLogo" />
+                                    <div class="contentGapXXS"></div>
+                                    <h4>Indonesia embraces blockchain</h4>
+                                    <div class="contentGapXXS"></div>
+                                </div>
+                                <div class="more">Read article</div>
+                            </div>
+                        </a>
+                    </li>
+                
+                <div class="clearfix"></div>
+            </ul>
+        </div>
+        <div class="contentGapXXL"></div>
+    </div>
+</div>
+
+<style type="text/css">
+
+    .articleSliderOuter {
+        overflow: hidden;
+    }
+
+    .articleSliderArrows {
+        user-select: none;
+    }
+    
+    .articleSliderTitle {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+        .button.articleSliderPager {
+            width: 36px;
+            height: 36px;
+            padding: 0;
+            -webkit-border-radius: 50%;
+            -moz-border-radius: 50%;
+            border-radius: 50%;
+            background-size: 16px 16px;
+            background-position: center;
+            background-repeat: no-repeat;
+        }
+        
+        .button.articleSliderPager.disabled {
+            opacity: 0;
+            pointer-events: none;
+        }
+        
+        .button.articleSliderPager.articleSliderPrev { margin-right: 10px; background-image: url(/assets/img/arrows/larr-white.svg); }
+        .button.articleSliderPager.articleSliderNext { margin-left: 10px; background-image: url(/assets/img/arrows/rarr-white.svg); }
+    
+    .articleSlider {
+        position: relative;
+        -webkit-transition: 0.3s;
+        -moz-transition: 0.3s;
+        transition: 0.3s;
+    }
+    
+    .articleSliderInner {
+        list-style: none;
+        margin-left: -40px;
+        margin-bottom: -30px;
+    }
+    
+    .articleSlider li {
+        float: left;
+        width: 450px;
+    }
+    
+        .articleSlider li a {
+            margin-left: 40px;
+            display: block;
+            cursor: pointer;
+            text-decoration: none !important;
+            color: #252527;
+        }
+    
+        .articleSliderItem {
+            display: block;
+            background: #fff;
+            -webkit-border-radius: 4px;
+            -moz-border-radius: 4px;
+            border-radius: 4px;
+            -webkit-transition: 0.3s;
+            -moz-transition: 0.3s;
+            transition: 0.3s;
+            position: relative;
+        }
+        
+            .articleSlider a:hover .articleSliderItem {
+                background: #fff;
+                -webkit-box-shadow: 0px 18px 30px 0px rgba(0,0,0,0.1);
+                -moz-box-shadow: 0px 18px 30px 0px rgba(0,0,0,0.1);
+                box-shadow: 0px 18px 30px 0px rgba(0,0,0,0.1);
+                -webkit-transform: translateY(-3px);
+                -moz-transform: translateY(-3px);
+                transform: translateY(-3px);
+            }
+        
+        .articleSliderImage {
+            width: 100%;
+            height: 240px;
+            -webkit-border-radius: 4px;
+            -moz-border-radius: 4px;
+            border-radius: 4px;
+            overflow: hidden;
+            display: block;
+            background-size: cover;
+            background-position: center;
+            background-image: url(/assets/img/articlePlaceholder.jpg);
+            position: relative;
+            z-index: 1;
+            -webkit-transition: 0.3s;
+            -moz-transition: 0.3s;
+            transition: 0.3s;
+        }
+        
+            .articleSlider a:hover .articleSliderImage {
+                -webkit-border-bottom-right-radius: 0;
+                -moz-border-bottom-right-radius: 0;
+                border-bottom-right-radius: 0;
+                -webkit-border-bottom-left-radius: 0;
+                -moz-border-bottom-left-radius: 0;
+                border-bottom-left-radius: 0;
+            }
+        
+        .articleSliderInfo {
+            padding: 30px;
+            padding-bottom: 80px;
+            position: relative;
+            z-index: 2;
+        }
+        
+            .articleSliderLogo {
+                width: auto;
+                height: 26px;
+                display: block;
+                margin-bottom: 5px;
+            }
+            
+            .articleSliderInfo h4 {
+                font-size: 20px;
+                line-height: 32px;
+                font-weight: normal;
+            }
+            
+            .articleSliderItem .more {
+                position: absolute;
+                left: 30px;
+                bottom: 20px;
+            }
+            
+    @media only screen and (max-width: 1000px) {
+        
+        .articleSlider li {
+            width: 300px;
+        }
+        
+        .articleSliderImage {
+            height: 160px;
+        }
+        
+        .articleSliderInfo h4,
+        .articleSliderTitle h4 {
+            font-size: 18px;
+            line-height: 28px;
+        }
+        
+        .articleSliderTitle h4 {
+            max-width: 200px;
+        }
+        
+    }
+    
+    @media only screen and (max-width: 800px) {
+
+        .button.articleSliderPager.articleSliderPrev { margin-right: 5px; }
+        .button.articleSliderPager.articleSliderNext { margin-left: 5px; }
+        
+    }
+
+</style>
+
+<script type="text/javascript">
+
+    function updateArticleSliderSize(){
+        
+        var slideCount = $('.articleSlider li').length;
+        $('.articleSliderInner').css('width', $('.articleSlider li:first-child').width() * slideCount + 'px');
+        
+        // make heights consistent
+        
+            // find tallest item
+            var maxHeight = -1;
+            $('.articleSliderItem').each(function(){
+                $(this).css('height', 'auto');
+                maxHeight = maxHeight > $(this).height() ? maxHeight : $(this).height();
+            });
+            
+            // set all items to max height
+            $('.articleSliderItem').each(function(){
+                $(this).css('height', maxHeight + 'px');
+            });
+        
+    }
+    
+    function goToArticleSlide(index){
+        
+        var slideCount = $('.articleSlider li').length;
+        
+        // activate requested slide
+        $('.articleSlider').attr('data-active-slide', index);
+        $('.articleSlider').css('margin-left', '-' + ((index-1) * $('.articleSlider li:first-child').width()) + 'px');
+        
+    }
+    
+    $(window).on('resize', function(){
+        updateArticleSliderSize();
+    });
+    
+    $(document).ready(function(){
+        
+        updateArticleSliderSize();
+        goToArticleSlide(1);
+        
+        // next slide
+        $('.articleSliderNext').click(function(){
+            var activeSlide = parseInt($('.articleSlider').attr('data-active-slide'));
+            var slideCount = $('.articleSlider li').length;
+            if ( activeSlide == slideCount ) {
+                goToArticleSlide(1);
+            } else {
+                goToArticleSlide(activeSlide + 1);
+            }
+        });
+        
+        // prev slide
+        $('.articleSliderPrev').click(function(){
+            var activeSlide = parseInt($('.articleSlider').attr('data-active-slide'));
+            var slideCount = $('.articleSlider li').length;
+            if ( activeSlide == 1 ) {
+                goToArticleSlide(slideCount);
+            } else {
+                goToArticleSlide(activeSlide - 1);
+            }
+        });
+        
+        // hover effect
+        $('.articleSlider li').mouseenter(function(){
+            $(this).find('.more').addClass('hover');
+        });
+        $('.articleSlider li').mouseleave(function(){
+            $(this).find('.more').removeClass('hover');
+        });
+        
+    });
+    
+</script>
+    
+   </div>
+
+   <style type="text/css">
+       .footerSocial {
+            width: 32px;
+            height: 32px;
+            display: inline-block;
+            border: 1px solid #fff;
+            -webkit-border-radius: 50%;
+            -moz-border-radius: 50%;
+            border-radius: 50%;
+            margin-right: 15px;
+            background-size: 16px 16px;
+            background-position: center;
+            background-repeat: no-repeat;
+        }
+        
+            .footerSocial.twitter { background-image: url(/assets/img/twitter-white.svg); }
+            .footerSocial.reddit { background-image: url(/assets/img/reddit-white.svg); }
+            .footerSocial.telegram { background-image: url(/assets/img/telegram-white.svg); }
+            .footerSocial.linkedin { background-image: url(/assets/img/linkedin-white.svg); }
+            .footerSocial.facebook { background-image: url(/assets/img/facebook-white.svg); }
+        
+            .footerSocial:hover {
+                background-color: rgba(255,255,255,0.2);
+            }
+   </style>
+
+    <footer>
+        <div class="contentOuter blue footerOuter">
+            <div class="footerWatermark"></div>
+            
+            
+                
+                <div class="contentGapL"></div><div class="contentGapXS"></div>
+                <div class="content small" style="text-align:center;">
+                    <h4 class="light">Find out how Horizon State can <strong>drive your organisation forward</strong></h4>
+                    <div class="contentGapXS"></div>
+                    <a class="button white large showArrowOnHover" href="/contact/">Contact us</a>
+                </div>
+                <div class="contentGapXS"></div><div class="contentGapL"></div>
+                
+                <hr style="position:relative;z-index:2;" />
+                
+            
+            
+            <div class="contentGapL"></div>
+            <div class="content footerMain">
+                <div class="footerLeft">
+                    <a href="/" class="internalLink" style="display:inline-block;">
+                        <img src="/assets/img/logo-alt.png" alt="Horizon State" title="Horizon State" class="logo" />
+                    </a>
+                    <div class="contentGapXS"></div>
+                    <div class="tagline">Ensuring every voice counts.</div>
+                    <div class="contentGapXS"></div>
+                    <a class="footerSocial twitter" target="_blank" href="https://twitter.com/horizonstate" title="Twitter"></a>
+                    <a class="footerSocial reddit" target="_blank" href="https://www.reddit.com/r/HorizonState/" title="Reddit"></a>
+                    <a class="footerSocial telegram" target="_blank" href="https://t.me/horizonstate" title="Telegram"></a>
+                    <a class="footerSocial facebook" target="_blank" href="https://www.facebook.com/HorizonState/" title="Facebook"></a>
+                    <a class="footerSocial linkedin" target="_blank" href="https://www.linkedin.com/company/horizonstate" title="LinkedIn"></a>
+                    <div class="contentGapXXL mobileOnly"></div>
+                </div>
+                <div class="footerRight">
+                    <div class="footerRightCol">
+                        <strong>Horizon State</strong>
+                        <div class="contentGapXXS"></div>
+                        <ul>
+                            
+                                <li><a class="internalLink" href="/platform/">Platform</a></li>
+                            
+                                <li><a class="internalLink" href="/about/">About</a></li>
+                            
+                                <li><a class="internalLink" href="/events/">Events</a></li>
+                            
+                                <li><a class="internalLink" href="/media/">Media</a></li>
+                            
+                                <li><a class="internalLink" href="/partners/">Partners</a></li>
+                            
+                                <li><a class="internalLink" href="/contact/">Contact</a></li>
+                            
+                                <li><a class="internalLink" href="/sign-up/">Sign up</a></li>
+                            
+                        </ul>
+                    </div>
+                    <div class="footerRightCol">
+                        <strong>Other links</strong>
+                        <div class="contentGapXXS"></div>
+                        <ul>
+                            
+                                <li><a href="/team/">Team</a></li>
+                            
+                                <li><a href="https://drive.google.com/drive/folders/17bjiMsE95ggjzIhvST6eoUpR3CZ5F1Bx" target="_blank">Media Kit</a></li>
+                            
+                                <li><a href="/hst/">HST Portal</a></li>
+                            
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="contentGapL"></div>
+        </div>
+        
+        <div class="contentOuter bottomBar">
+            <div class="content">
+                <div class="bottomBarLeft">
+                    <a class="internalLink" href="/privacy">Privacy &amp; Cookies</a>
+                    <div class="bottomBarDivider"></div>
+                    <a class="internalLink" href="/terms">Terms &amp; Conditions</a>
+                </div>
+                <div class="bottomBarRight">
+                    &copy; Copyright 2019 Horizon State Pty Ltd. All rights reserved. ABN 50 622 <span><!-- this span is here so that this number doesn't get detected as a phone number on ios --></span>345 297​​​​​​
+                </div>
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>
